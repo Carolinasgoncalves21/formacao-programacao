@@ -1,2 +1,2 @@
 # formacao-programacao
-## 26 de junnho
+## 26 de junho
