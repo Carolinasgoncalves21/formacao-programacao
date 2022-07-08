@@ -1,0 +1,15 @@
+p {
+    text-align: justify;   
+}
+
+h1{
+    text-align: center; color: indianred; font-size: 60px;
+}
+
+h2{
+    text-align: center; color: palevioletred;
+}
+
+body {
+    background-color: lightsteelblue;
+}
