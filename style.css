@@ -1,24 +1,33 @@
 body {
-    background-color: #Dfb9d8; font-size: 30px;
+    background-color: #Dfb9d8;
+    font-size: 30px;
 }
 
 p {
-    text-align: justify;   color:#fefdfe
+    text-align: justify;
+    color: #fefdfe
 }
 
-h1{
-    text-align: center; color: #a753ba; font-size: 60px;
+h1 {
+    text-align: center;
+    color: #a753ba;
+    font-size: 60px;
 }
 
-h2{
-    text-align: center; color: #bb87ca;
+h2 {
+    text-align: center;
+    color: #bb87ca;
 }
 
 h3 {
-	text-align: center; color:#f768b3;
+    text-align: center;
+    color: #f768b3;
 }
 
-#imagem-principal{
-    width:10%
-     
+#imagem-principal {
+    width: 10%;
+    }
+
+#imagem-secundária {
+    width: 13%;
 }
