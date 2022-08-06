@@ -12,22 +12,39 @@ h1 {
     text-align: center;
     color: #a753ba;
     font-size: 60px;
+    border: 10px double #145ba7;
+    padding: 40px;
+    margin: 50px;
 }
 
 h2 {
     text-align: center;
     color: #bb87ca;
+    border: dashed  red;
 }
 
 h3 {
     text-align: center;
     color: #f768b3;
+    border: 5px solid #8A2BE2;
+}
+
+#texto1 {
+    color: #c408c4
 }
 
 #imagem-principal {
     width: 10%;
-    }
+    height: 50%;
+    margin-left: 50%;
+    border: dotted #145ba7;
+}
 
 #imagem-secundária {
     width: 13%;
+    position: relative;
+}
+
+span {
+    color: #DC143C
 }
