@@ -18,15 +18,19 @@ h1 {
 }
 
 h2 {
-    text-align: center;
     color: #bb87ca;
-    border: dashed  red;
+    border: dashed red;
 }
 
-h3 {
+.títulofundorosa {
+    text-align: justify;
+    color: red;
+    font-size: 30px;
+    text-align: left;
+    list-style: none;
+}
+.titulo-principal {
     text-align: center;
-    color: #f768b3;
-    border: 5px solid #8A2BE2;
 }
 
 #texto1 {
@@ -36,7 +40,7 @@ h3 {
 #imagem-principal {
     width: 10%;
     height: 50%;
-    margin-left: 50%;
+    margin-left: 40%;
     border: dotted #145ba7;
 }
 
@@ -48,3 +52,30 @@ h3 {
 span {
     color: #DC143C
 }
+
+.texto-principal {
+    color: red;
+    background-color: rgb(234, 218, 234);
+    text-align: justify;
+    padding: 20px;
+}
+
+.imagem3 {
+    width: 15%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+li::marker {
+    content: "✔";
+    color: blue;
+}
+h5:hover {
+    opacity: 0,75;
+    color:rgb(16, 122, 87);
+   }
