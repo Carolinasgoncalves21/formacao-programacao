@@ -13,14 +13,15 @@ h1 {
     color: #a753ba;
     font-size: 60px;
     border: 10px double #145ba7;
-    padding: 40px;
-    margin: 50px;
+    border-radius: 20px 40px 60px 80px;
+    padding: 5px;
+    margin: 10px;
 }
 
 h2 {
     color: #bb87ca;
     border: dashed red;
-}
+    }
 
 .títulofundorosa {
     text-align: justify;
@@ -79,3 +80,34 @@ h5:hover {
     opacity: 0,75;
     color:rgb(16, 122, 87);
    }
+
+h1::selection {
+    color:#c408c4;
+    background-color: rgb(238, 13, 13);
+}
+
+h3{
+    color:aqua;
+    text-decoration: underline wavy royalblue;
+}
+.emoji1 i::before {
+    content: "📗"
+}
+
+.emoji2 i::after {
+    content: "📘"
+}
+
+.emoji3 i::before {
+    content: "📙";
+}
+
+.fig1 i::before {
+    content: "✨";
+}
+
+.fig2 i::before {
+    content: "🔆";
+}
+
+
