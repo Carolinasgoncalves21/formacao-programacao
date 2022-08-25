@@ -87,8 +87,8 @@ h1::selection {
 }
 
 h3{
-    color:aqua;
-    text-decoration: underline wavy royalblue;
+    color:red;
+    text-decoration: underline wavy violet;
 }
 .emoji1 i::before {
     content: "📗"
@@ -109,5 +109,3 @@ h3{
 .fig2 i::before {
     content: "🔆";
 }
-
-
