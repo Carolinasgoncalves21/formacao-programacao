@@ -1,0 +1,111 @@
+body {
+    background-color: #Dfb9d8;
+    font-size: 30px;
+}
+
+p {
+    text-align: justify;
+    color: #fefdfe
+}
+
+h1 {
+    text-align: center;
+    color: #a753ba;
+    font-size: 60px;
+    border: 10px double #145ba7;
+    border-radius: 20px 40px 60px 80px;
+    padding: 5px;
+    margin: 10px;
+}
+
+h2 {
+    color: #bb87ca;
+    border: dashed red;
+    }
+
+.títulofundorosa {
+    text-align: justify;
+    color: red;
+    font-size: 30px;
+    text-align: left;
+    list-style: none;
+}
+.titulo-principal {
+    text-align: center;
+}
+
+#texto1 {
+    color: #c408c4
+}
+
+#imagem-principal {
+    width: 10%;
+    height: 50%;
+    margin-left: 40%;
+    border: dotted #145ba7;
+}
+
+#imagem-secundária {
+    width: 13%;
+    position: relative;
+}
+
+span {
+    color: #DC143C
+}
+
+.texto-principal {
+    color: red;
+    background-color: rgb(234, 218, 234);
+    text-align: justify;
+    padding: 20px;
+}
+
+.imagem3 {
+    width: 15%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+li::marker {
+    content: "✔";
+    color: blue;
+}
+h5:hover {
+    opacity: 0,75;
+    color:rgb(16, 122, 87);
+   }
+
+h1::selection {
+    color:#c408c4;
+    background-color: rgb(238, 13, 13);
+}
+
+h3{
+    color:red;
+    text-decoration: underline wavy violet;
+}
+.emoji1 i::before {
+    content: "📗"
+}
+
+.emoji2 i::after {
+    content: "📘"
+}
+
+.emoji3 i::before {
+    content: "📙";
+}
+
+.fig1 i::before {
+    content: "✨";
+}
+
+.fig2 i::before {
+    content: "🔆";
+}
