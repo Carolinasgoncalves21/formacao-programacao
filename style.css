@@ -75,6 +75,7 @@ ul {
 li::marker {
     content: "✔";
     color: blue;
+    font-size: 20px;
 }
 h5:hover {
     opacity: 0,75;
