@@ -3,6 +3,8 @@ body {
     font-size: 30px;
     background-image: url(https://img.freepik.com/vetores-gratis/comecar_53876-25533.jpg?auto=format&h=100);
     background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: 50% 0;
 }
 
 p {
