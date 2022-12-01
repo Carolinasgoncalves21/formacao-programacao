@@ -1,12 +1,7 @@
 body {
     background-color: #Dfb9d8;
     font-size: 30px;
-    background-image: url(https://img.freepik.com/vetores-gratis/comecar_53876-25533.jpg?auto=format&h=100);
-    background-repeat: no-repeat;
-    background-size: 1000px;
-    background-position: 10% 0;
-    background-blend-mode: saturation 0.1;
-    z-index: -2;
+   
 }
 
 p {
